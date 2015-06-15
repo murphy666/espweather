@@ -2,10 +2,11 @@
 
 Description: 
 
-Small WIFI weather station based on the ESP8266. 
+Small WIFI weather station based on the ESP8266 and SHT21 sensor. 
 
 The weather station is using MQTT protocol and send three simple topics : temperature/, humidity/, and voltage/ (for battery monitoring). 
 
+This code is tested on ESP-01 module only.
 
 Thanks to :
 
